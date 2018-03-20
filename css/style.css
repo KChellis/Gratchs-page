@@ -13,3 +13,12 @@ h2 {
   font-size: 25px;
   color: #F64;
 }
+
+.black {
+  background-color: black;
+  color: #f1f1f1;
+}
+.greenish {
+  background-color: lightgreen;
+  color: darkgreen;
+}
